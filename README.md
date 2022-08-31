@@ -24,4 +24,4 @@ The application is available at:
 
 ## TWITTER CLONE APP URL
 
-`https://mytweeter12.herokuapp.com/login`
+<a href="https://mytweeter12.herokuapp.com/login">https://mytweeter12.herokuapp.com/login</a>
